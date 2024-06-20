@@ -18,7 +18,7 @@ To run this app on your local machine, follow these steps:
 
 1. Ensure you have Flutter installed. For installation instructions, visit [Flutter documentation](https://flutter.dev/docs/get-started/install).
 
-2. Clone this repository to your local machine: git clone https://github.com/your-username/dice_app.git
+2. Clone this repository to your local machine: git clone https://github.com/AbhishekPal634/dice_app.git
 
 3. Navigate to the project directory: cd dice_app
 
